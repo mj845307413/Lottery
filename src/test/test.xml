@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<message version="1.0" >
+
+    <header>
+
+        <agenterid>
+889931
+        </agenterid>
+
+        <source>
+ivr
+        </source>
+
+        <compress>
+DES
+        </compress>
+
+        <messengerid>
+20150726195057273178
+        </messengerid>
+
+        <timestamp>
+20150726195057
+        </timestamp>
+
+        <digest>
+33d792b53f20667330604c0cc2ef39db
+        </digest>
+
+        <transactiontype>
+12002
+        </transactiontype>
+
+        <username>
+        </username>
+    </header>
+
+    <body>
+xovCpzfzTkVJajyfF62JhmfrcPsUvKK61U0UbNSI7mVCttKh4VlvmbURzWxRxCO86A6LW2PO5Ea1MbJoJlbMUNBEaqVDq75YkmMlvv1+w9QsB+mMwXUnHw==
+    </body>
+
+</message>
